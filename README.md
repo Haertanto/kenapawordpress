@@ -24,6 +24,6 @@
    Yang gak kalah penting nih! Cara tingkatkan Closing Melalui Customer Service
    
 ## Referensi
-1. [Profil Pengguna Internet Indonesia Retail. 2023.](https://survei.apjii.or.id/). Diakses 9 Oktober 2024
+1. [Profil Pengguna Internet Indonesia Retail. 2023](https://survei.apjii.or.id/). Diakses 9 Oktober 2024
 2. [Online shopping behavior in the United States - statistics & facts](https://www.statista.com/topics/2477/online-shopping-behavior/#topicOverview). Diakses 9 Oktober 2024
 3. 
