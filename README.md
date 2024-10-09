@@ -1,4 +1,5 @@
 # Belajar bareng tentang potensi berjualan jaman now menggunakan Wordpress!
+## [Daftar Istilah](https://github.com/Haertanto/kenapawordpress/commit/72187049c39a4d55c72f64c67d2e5cc2543fbe2a)
 1. Potensi berjualan menggunakan website
 
    Yuk gali lebih dalam potensi berjualan di google dan perbedaan sosmed vs website (behaviour & strategi)
@@ -21,3 +22,8 @@
 7. Tingkatkan Closingmu Melalui Customer Service
    
    Yang gak kalah penting nih! Cara tingkatkan Closing Melalui Customer Service
+   
+## Referensi
+1. [Profil Pengguna Internet Indonesia Retail. 2023.](https://survei.apjii.or.id/). Diakses 9 Oktober 2024
+2. [Online shopping behavior in the United States - statistics & facts](https://www.statista.com/topics/2477/online-shopping-behavior/#topicOverview). Diakses 9 Oktober 2024
+3. 
